@@ -5,8 +5,8 @@ There is only a small snippet of interaction with the API in the program.
 <hr>
 
 ## Installation
-1. Register on [OpenWeatherMap](https://openweathermap.org) and get your first API key
-1. Copy the key and enter it in <b>main.go</b> apiKey
+1. Register on [OpenWeatherMap](https://openweathermap.org) and get your first API key.
+1. Copy the key and enter it in <b>main.go</b> apiKey.
 2. Start the programme and enter your city.
 
 <hr>
